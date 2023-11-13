@@ -9,6 +9,6 @@ public class VictoryLogic : MonoBehaviour
     void Start()
     {
         print("Pepa");
-        changeScene.Change("VictoryMenu");
+        //changeScene.Change("VictoryMenu");
     }
 }
